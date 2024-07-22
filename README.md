@@ -39,3 +39,16 @@ python3 main.py linux
 <ins>LLVM</ins>: ```https://bugs.llvm.org/show_bug.cgi?ctype=xml&id=```   
 
 <ins>OpenOffice</ins>: ```https://bz.apache.org/ooo/show_bug.cgi?ctype=xml&id=```  
+
+# Citation
+You are kindly asked to acknowledge the usage of the dataset by citing the following publication:
+```
+@inproceedings{xiao2020hindbr,
+  title={HINDBR: Heterogeneous Information Network Based Duplicate Bug Report Prediction},
+  author={Xiao, Guanping and Du, Xiaoting and Sui, Yulei and Yue, Tao},
+  booktitle={2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={195--206},
+  year={2020},
+  organization={IEEE}
+}
+```
